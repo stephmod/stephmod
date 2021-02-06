@@ -4,7 +4,8 @@
 export default {
   data() {
     return {
-      name: "Stephanie"
+      name: "Stephanie",
+      favs: "Vue.js, D3.js, psql"
     }
   }
 }
