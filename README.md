@@ -5,7 +5,7 @@ export default {
   data() {
     return {
       name: "Stephanie",
-      favs: "Vue, D3, psql"
+      favs: "React, R3F, Vue, D3, psql"
     }
   }
 }
